@@ -1,0 +1,14 @@
+.todo-container{
+    min-height: 400px;
+    overflow-y: auto;
+   
+}
+.todo-container-active {
+    background: lightgreen;  
+    border: 1px solid green;  
+}
+
+.todo-container-inactive {
+    background: rgb(241, 199, 185);
+    border: 1px solid red; 
+}
